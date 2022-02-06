@@ -1,5 +1,6 @@
+
 void main()
 {
 int a;
-prinf("enter name");
+printf("enter name");
 }
